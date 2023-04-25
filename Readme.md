@@ -1,0 +1,1 @@
+Um Bot para exercer alguns comandos no meu servidor do Discord!
